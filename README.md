@@ -3,7 +3,7 @@ Using a U-net for semantic segmentation
 
 **Dataset**
 The dataset should have the following directories
-|train_set
+|train_set (\n)
     |--original_imagees
     |--masks
 |test_set
