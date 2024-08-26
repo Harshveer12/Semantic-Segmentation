@@ -2,16 +2,16 @@
 Using a U-net for semantic segmentation
 
 **Dataset**
-The dataset should have the following directories
+The dataset should have the following directories  
 |train_set  
-    |--original_images  
-    |--masks  
+|----|--original_images  
+|----|--masks  
 |test_set  
-    |--original_images  
-    |--masks  
+|----|--original_images  
+|----|--masks  
 |val_set  
-    |--original_images  
-    |--masks  
+|----|--original_images  
+|----|--masks  
   
 Validation Image
 ![image](https://github.com/user-attachments/assets/7d1f8712-7682-41ef-b187-3f3af5b578bb)
