@@ -22,6 +22,8 @@ Random Google Images
 ![image](https://github.com/user-attachments/assets/19dc0ba8-765b-4510-9caf-410601894b69)
 
 Live Camera Feed
+Run the live_segmentation.py script for live segmentation after checking for where the video device is connected. Unix systems have video streming devices like webcams connected at /dev/video...  
+
 ![image](https://github.com/user-attachments/assets/965a5584-1152-4cde-a241-c99932d0f6e5)
 ![image](https://github.com/user-attachments/assets/7eff1876-765c-4dca-84ee-6181cc2838d0)
 
